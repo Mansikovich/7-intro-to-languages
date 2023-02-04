@@ -1,0 +1,15 @@
+C:\Users\Мансур\Desktop\Новая эра\7 seminar\50 task\obj\Debug\net6.0\50 task.csproj.AssemblyReference.cache
+C:\Users\Мансур\Desktop\Новая эра\7 seminar\50 task\obj\Debug\net6.0\50 task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мансур\Desktop\Новая эра\7 seminar\50 task\obj\Debug\net6.0\50 task.AssemblyInfoInputs.cache
+C:\Users\Мансур\Desktop\Новая эра\7 seminar\50 task\obj\Debug\net6.0\50 task.AssemblyInfo.cs
+C:\Users\Мансур\Desktop\Новая эра\7 seminar\50 task\obj\Debug\net6.0\50 task.csproj.CoreCompileInputs.cache
+C:\Users\Мансур\Desktop\Новая эра\7 seminar\50 task\bin\Debug\net6.0\50 task.exe
+C:\Users\Мансур\Desktop\Новая эра\7 seminar\50 task\bin\Debug\net6.0\50 task.deps.json
+C:\Users\Мансур\Desktop\Новая эра\7 seminar\50 task\bin\Debug\net6.0\50 task.runtimeconfig.json
+C:\Users\Мансур\Desktop\Новая эра\7 seminar\50 task\bin\Debug\net6.0\50 task.dll
+C:\Users\Мансур\Desktop\Новая эра\7 seminar\50 task\bin\Debug\net6.0\50 task.pdb
+C:\Users\Мансур\Desktop\Новая эра\7 seminar\50 task\obj\Debug\net6.0\50 task.dll
+C:\Users\Мансур\Desktop\Новая эра\7 seminar\50 task\obj\Debug\net6.0\refint\50 task.dll
+C:\Users\Мансур\Desktop\Новая эра\7 seminar\50 task\obj\Debug\net6.0\50 task.pdb
+C:\Users\Мансур\Desktop\Новая эра\7 seminar\50 task\obj\Debug\net6.0\50 task.genruntimeconfig.cache
+C:\Users\Мансур\Desktop\Новая эра\7 seminar\50 task\obj\Debug\net6.0\ref\50 task.dll
